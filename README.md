@@ -1,16 +1,12 @@
-### Hi there 👋
+### 👋 Hi,I'm Ayushi Singla.
+### I'm a Software Developer.
 
-<!--
-**ayushisingla/ayushisingla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently exploring web development various fields.
+- 👯 I’m looking to collaborate for various web development projects.
+- 🌱 I’m currently learning MERN stack.
+- :computer: I'm currently working with [Clinicspots](https://www.clinicspots.com/)
+- ⚡ Fun fact: I love dancing:dancer: and sketching :pencil2::blue_book:
+- 📫 How to reach me: <br>
+[![Linkedin Badge](https://img.shields.io/badge/-ayushisingla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushisingla/)](https://www.linkedin.com/in/ayushisingla/) 
+[![Facebook Badge](https://img.shields.io/badge/-@ayushisingla-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/ayushi.singla.906)](https://www.facebook.com/ayushi.singla.906) 
+[![Instagram Badge](https://img.shields.io/badge/-@ayushisingla-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/_ayushi17/)](https://www.instagram.com/_ayushi17/)
