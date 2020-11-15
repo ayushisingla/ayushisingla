@@ -4,7 +4,6 @@
 - 🔭 I’m currently exploring web development various fields.
 - 👯 I’m looking to collaborate for various web development projects.
 - 🌱 I’m currently learning MERN stack.
-- :computer: I'm currently working with [Clinicspots](https://www.clinicspots.com/)
 - ⚡ Fun fact: I love dancing:dancer: and sketching :pencil2::blue_book:
 - 📫 How to reach me: <br>
 [![Linkedin Badge](https://img.shields.io/badge/-ayushisingla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushisingla/)](https://www.linkedin.com/in/ayushisingla/) 
