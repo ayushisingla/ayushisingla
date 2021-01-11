@@ -11,3 +11,7 @@
 <img align="left" alt="ayushi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushisingla&show_icons=true&hide_border=false" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushisingla&layout=compact)](https://github.com/ayushisingla)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ayushisingla/count.svg" />
+</p>
