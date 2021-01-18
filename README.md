@@ -8,7 +8,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ayushisingla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushisingla/)](https://www.linkedin.com/in/ayushisingla/) 
 [![Facebook Badge](https://img.shields.io/badge/-@ayushisingla-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/ayushi.singla.906)](https://www.facebook.com/ayushi.singla.906) 
 [![Instagram Badge](https://img.shields.io/badge/-@ayushi17-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/_ayushi17/)](https://www.instagram.com/_ayushi17/)
-<img align="left" alt="ayushi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushisingla&show_icons=true&hide_border=false" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushisingla&layout=compact)](https://github.com/ayushisingla)
 
