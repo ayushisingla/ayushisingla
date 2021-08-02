@@ -37,8 +37,6 @@
 * <img src="https://img.shields.io/badge/Android-%234ea94b.svg?&style=for-the-badge&logo=Android&logoColor=white" height=25> <img src="https://camo.githubusercontent.com/e3c72ff8c616617254d1b5303370700edfdb9942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702532302d2532333536334437432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" height=25>
 
  # Stats:
- 
-![Profile View](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ayushisingla&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
 <a href="">
   <img src="https://github-readme-stats.vercel.app/api?username=ayushisingla&count_private=true" align="center"/>
