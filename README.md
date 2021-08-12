@@ -19,13 +19,13 @@
 # Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently working on **Java and Spring**
-- 🌱 I’m currently learning **Javascript**, **Android**, **Spring**, **Frontend Design**
+- 🌱 I’m currently learning **Javascript**, **Spring**, **Frontend Design**, **Cloud Deployment**
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 - 👨‍💻 Some of my projects are available at my <a href="https://github.com/ayushisingla?tab=repositories">**Github**</a>
 - 🤔 I’m looking for help with DevOps
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: ayushisingla46@gmail.com
-- 😄 Pronouns: Web Developer
+- 😄 Pronouns: Full Stack Developer
 - ⚡ Website : 
 
 # Skills:
