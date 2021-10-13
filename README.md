@@ -2,10 +2,10 @@
 # Ayushi Singla
 <p>
 <a href="https://twitter.com/ayushisingla46"><img src="https://aleen42.github.io/badges/src/twitter.svg" height=25></a> 
-<a href=""><img src="https://aleen42.github.io/badges/src/medium.svg" height=25></a> 
+<!-- <a href=""><img src="https://aleen42.github.io/badges/src/medium.svg" height=25></a>  -->
 <a href="https://www.linkedin.com/in/ayushisingla/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 <a href="https://www.instagram.com/ayushisingla._/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
-<a href=""><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" height=25>
+<!-- <a href=""><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" height=25> -->
  </a> 
 </p>
  
@@ -24,7 +24,7 @@
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: ayushisingla46@gmail.com
 - 😄 Pronouns: Full Stack Developer
-- ⚡ Website : 
+- ⚡ Website : Yet to launch
 
 # Skills:
 
